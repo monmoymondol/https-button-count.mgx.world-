@@ -42,6 +42,8 @@ pnpm add some_new_dependency
 
 **Start Preview**
 
+https-button-count.mgx.world
+
 ```shell
 pnpm run dev
 To build
